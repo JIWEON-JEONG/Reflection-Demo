@@ -10,6 +10,13 @@ public class IntroduceService {
 	public IntroduceService() {
 	}
 
+	public boolean checkAutowiredFieldIsNotNull() {
+		if (backendDeveloper == null) {
+			return Boolean.FALSE;
+		}
+		return Boolean.TRUE;
+	}
+
 	public void introduce() {
 		System.out.println("안녕하세요. 백엔드 개발자 " + backendDeveloper.readName() + " 입니다.");
 	}

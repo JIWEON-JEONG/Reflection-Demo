@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T07:09:02" hostname="seowonseog-ui-MacBookPro.local" time="0.038">
+  <properties/>
+  <testcase name="DI 정상 동작 테스트" classname="MainTest" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
